@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0136-single-number) |
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
