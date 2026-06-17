@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
