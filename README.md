@@ -63,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0142-linked-list-cycle-ii) |
 ## Prefix Sum
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
