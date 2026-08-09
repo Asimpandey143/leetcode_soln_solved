@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1470-shuffle-the-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -160,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
