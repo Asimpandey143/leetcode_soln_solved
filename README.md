@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 ## Stack
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0010-regular-expression-matching) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0198-house-robber) |
