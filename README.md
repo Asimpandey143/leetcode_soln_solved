@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
+| [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,13 +185,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
