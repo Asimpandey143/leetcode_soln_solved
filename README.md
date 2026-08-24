@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
 |  |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -195,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
