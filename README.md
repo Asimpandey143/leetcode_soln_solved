@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 ## Game Theory
 |  |
 | ------- |
@@ -190,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
