@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -264,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
