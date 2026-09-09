@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0142-linked-list-cycle-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
