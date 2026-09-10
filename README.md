@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0940-distinct-subsequences-ii) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -297,8 +300,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0022-generate-parentheses) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
