@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0940-distinct-subsequences-ii) |
@@ -200,11 +201,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0198-house-robber) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0032-longest-valid-parentheses) |
 ## 0-1 Knapsack
 |  |
 | ------- |
