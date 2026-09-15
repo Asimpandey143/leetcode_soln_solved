@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
