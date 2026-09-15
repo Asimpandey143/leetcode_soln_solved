@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
