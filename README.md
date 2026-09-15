@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0940-distinct-subsequences-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0198-house-robber) |
