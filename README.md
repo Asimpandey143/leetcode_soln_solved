@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0940-distinct-subsequences-ii) |
