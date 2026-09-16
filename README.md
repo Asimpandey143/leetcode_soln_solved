@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0835-image-overlap) |
