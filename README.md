@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0198-house-robber) |
