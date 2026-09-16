@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
