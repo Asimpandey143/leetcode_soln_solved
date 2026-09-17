@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1929-concatenation-of-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0142-linked-list-cycle-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
