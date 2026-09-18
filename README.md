@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
