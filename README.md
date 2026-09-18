@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3483-unique-3-digit-even-numbers) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
