@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0136-single-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0084-largest-rectangle-in-histogram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0084-largest-rectangle-in-histogram) |
 ## Quicksort
 |  |
 | ------- |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1401-circle-and-rectangle-overlapping) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
