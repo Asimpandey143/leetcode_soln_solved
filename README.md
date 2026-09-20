@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0136-single-number) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0940-distinct-subsequences-ii) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0835-image-overlap) |
 ## Game Theory
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
