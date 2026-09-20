@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
