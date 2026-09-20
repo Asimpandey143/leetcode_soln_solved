@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0142-linked-list-cycle-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1386-cinema-seat-allocation) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0940-distinct-subsequences-ii) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0076-minimum-window-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
