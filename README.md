@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
+| [1260-shift-2d-grid](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1260-shift-2d-grid) |
 ## Game Theory
 |  |
 | ------- |
