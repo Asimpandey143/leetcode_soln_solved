@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3731-find-missing-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3876-construct-uniform-parity-array-ii) |
