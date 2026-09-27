@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
@@ -539,4 +541,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3312-sorted-gcd-pair-queries) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
