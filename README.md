@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0877-stone-game) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
