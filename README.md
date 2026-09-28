@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3498-reverse-degree-of-a-string) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0087-scramble-string) |
