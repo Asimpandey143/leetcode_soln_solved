@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0090-subsets-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3498-reverse-degree-of-a-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0087-scramble-string) |
