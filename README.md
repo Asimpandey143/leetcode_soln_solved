@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
