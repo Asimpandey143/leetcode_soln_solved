@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0089-gray-code) |
 | [0486-predict-the-winner](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0509-fibonacci-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -566,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0095-unique-binary-search-trees-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
