@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [3310-remove-methods-from-project](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3310-remove-methods-from-project) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0096-unique-binary-search-trees) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -581,4 +586,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
