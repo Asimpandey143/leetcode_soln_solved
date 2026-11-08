@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1406-stone-game-iii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3665-twisted-mirror-path-count) |
 ## Game Theory
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3310-remove-methods-from-project) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3312-sorted-gcd-pair-queries) |
 ## Nim Game
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1267-count-servers-that-communicate) |
 ## Trie
 |  |
 | ------- |
