@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3498-reverse-degree-of-a-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3665-twisted-mirror-path-count](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3665-twisted-mirror-path-count) |
