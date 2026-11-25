@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -643,4 +646,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Asimpandey143/leetcode_soln_solved/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
